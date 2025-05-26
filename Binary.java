@@ -1,3 +1,5 @@
+Binary Search
+--------------------------------
 class Binary {
     public int binarysearch(int[] arr, int k) {
        int  l=0,r=arr.length-1;
